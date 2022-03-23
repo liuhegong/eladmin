@@ -9,6 +9,8 @@
 
 本项目在原eladmin项目的基础上，进行了部分扩展及尝试，在此表示感谢。
 
+在22年底，Spring系列将对Java 17进行支持，在未来17将取代8成为主流 ，在Spring 6.x 及 Spring Boot 3.x Release之前，将在此分支尝试17之后的版本特性。
+
 ---
 启动类 [AppRun.java](eladmin-starter/src/main/java/com/lwohvye/AppRun.java) 和配置文件 [resources](eladmin-starter/src/main/resources)
 详见 [eladmin-starter](eladmin-starter) 模块。[启停脚本](script)
